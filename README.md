@@ -75,7 +75,7 @@ To engineer a scalable, user-friendly **business intelligence platform** that in
 
 ## 📎 Project Resources  
 - 💻 **GitHub Repository**: [Explore the Project](https://github.com/Naveen-S6/Business_Insights_360)  
-- 🌐 **Live Dashboard**: [Explore the Live Dashboard]([https://app.powerbi.com/Redirect?action=OpenReport&appId=799bd6b3-489c-4780-bc70-ee26e59dcf36&reportObjectId=aa4950ae-f148-44d9-9f3e-ecf010edf453&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&reportPage=6cd45d1b4439770c69a9&pbi_source=appShareLink&portalSessionId=f2be9c59-2fe0-4717-b53c-c319e2b7c7ca](https://app.powerbi.com/links/iL-qX_p1Ua?ctid=f5bc7a86-810c-40cd-8d64-a1e653743d90&pbi_source=linkShare)
+- 🌐 **Live Dashboard**: [Explore the Live Dashboard]([https://app.powerbi.com/Redirect?action=OpenApp&appId=acae221d-ebf9-4a09-b10b-a3c76d364fe3&ctid=f5bc7a86-810c-40cd-8d64-a1e653743d90&experience=power-bi&clientSideAuth=0])
 
 ---
 
