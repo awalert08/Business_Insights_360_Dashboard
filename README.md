@@ -69,13 +69,19 @@ To engineer a scalable, user-friendly **business intelligence platform** that in
 ---
 
 ## 🖼️ Dashboard Preview  
-> [Power BI dashboard screenshot or GIF comming soon]
+> [Power BI dashboard screenshots]
+> [Dashboard Homepage](assets/screenshots/Homepage.PNG)
+> [Finance View](assets/screenshots/Finance.PNG)
+> [Sales View](assets/screenshots/Sales.PNG)
+> [Marketing View](assets/screenshots/Marketing.PNG)
+> [Supply Chain View](assets/screenshots/SupplyChain.PNG)
+> [Executive View](assets/screenshots/Eecutive.PNG)
 
 ---
 
 ## 📎 Project Resources  
-- 💻 **GitHub Repository**: [Explore the Project](https://github.com/Naveen-S6/Business_Insights_360)  
-- 🌐 **Live Dashboard**: [Explore the Live Dashboard]([https://app.powerbi.com/Redirect?action=OpenApp&appId=acae221d-ebf9-4a09-b10b-a3c76d364fe3&ctid=f5bc7a86-810c-40cd-8d64-a1e653743d90&experience=power-bi&clientSideAuth=0])
+- 💻 **GitHub Repository**: [Explore the Project](https://github.com/awalert08/Business_Insights_360_Dashboard)  
+- 🌐 **Live Dashboard**: [Explore the Live Dashboard](https://app.powerbi.com/groups/me/apps/acae221d-ebf9-4a09-b10b-a3c76d364fe3/reports/09f6b405-3d1c-455c-8a2c-96b833d307ba/5003f6ffd5b292ae784b?ctid=f5bc7a86-810c-40cd-8d64-a1e653743d90&experience=power-bi&clientSideAuth=0)
 
 ---
 
